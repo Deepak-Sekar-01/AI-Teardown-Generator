@@ -6,7 +6,7 @@ not guesswork.
 Built for product analysts and APMs who want to understand why a product is 
 winning or failing, fast.
 
-**Live demo:** [your-streamlit-url-here]
+**Live demo:** [ai-teardown-generator](https://ai-teardown-generator-9sahtqzam37tedtau54appa.streamlit.app/)
 
 ---
 
